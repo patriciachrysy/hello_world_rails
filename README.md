@@ -27,6 +27,9 @@
 **The Hello Rails Api App** is a Rails based app with APIs.
 Check the frontend app consuming these APIs [hello_world_react](https://github.com/patriciachrysy/hello_world_react.git).
 
+Check the frontend app consuming these APIs [hello_world_react](https://github.com/patriciachrysy/hello_world_react.git).
+
+
 ## 🛠 Built With <a name="built-with"></a>
 - ✅ Ruby
 - ✅ Ruby on Rails
@@ -81,7 +84,7 @@ Check the frontend app consuming these APIs [hello_world_react](https://github.c
 ```sh
   cd [YOUR FOLDER]
   git https://github.com/patriciachrysy/hello_world_rails.git
-  cd hello-world
+  cd hello_world_rails
   bundle install
   code .
 ```
@@ -130,7 +133,7 @@ Check the frontend app consuming these APIs [hello_world_react](https://github.c
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/patriciachrysy/hello_world_rails.git).
+Feel free to check the [issues page](https://github.com/patriciachrysy/hello_world_rails/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
