@@ -26,7 +26,7 @@
 
 **The Hello Rails Api App** is a Rails based app with APIs.
 
-Check the frontend app consuming these APIs [hello_world_rails](https://github.com/patriciachrysy/hello_world_react.git).
+Check the frontend app consuming these APIs [hello_world_react](https://github.com/patriciachrysy/hello_world_react.git).
 
 
 ## 🛠 Built With <a name="built-with"></a>
